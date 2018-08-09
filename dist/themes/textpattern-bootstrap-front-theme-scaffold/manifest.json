@@ -1,0 +1,8 @@
+{
+    "title": "Bootstrap Scaffold",
+    "version": "0.0.4",
+    "description": "Bootstrap front side theme scaffold.",
+    "author": "Pete Cooper",
+    "author_uri": "https://github.com/petecooper/textpattern-bootstrap-front-theme-scaffold",
+    "txp-type": "textpattern-theme"
+}
